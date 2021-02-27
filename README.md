@@ -10,7 +10,7 @@
 * [Contact](#contact)
 
 ## General info
-Ebben a kis sztori megismerkedhetünk egy cica és egy sündisznó rövid történetével. Egy érdekes dologra figyelnek fel ami egy ***operációs rendszer***. Ebben a rövid történetben végíg kísérhetjük őket ezen a kalandozásukon.
+Ebben a kis sztori megismerkedhetünk egy cica és egy sündisznó rövid történetével. Egy érdekes dologra figyelnek fel ami egy ***operációs rendszer***. Ebben a rövid történetben végig kísérhetjük őket ezen a kalandozásukon.
 ### Warning
 **Ebben a projectben hirtelen felvillanó képek és vagy hirtelen, hangos hangefekt előfordulhat!**
 
